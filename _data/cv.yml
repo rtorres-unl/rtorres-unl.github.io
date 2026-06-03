@@ -3,12 +3,12 @@ cv:
   label: Assistant Professor
   email: rtorres10@unl.edu
   location: Lincoln, NE
-  image: "Profile photo.png"
+  image: "prof_pic.png"
   summary: Assistant Professor of Electrical and Computer Engineering at the University of Nebraska–Lincoln. Research focuses on electric machines, motor drives, and power electronics.
 
   social_networks:
     - network: LinkedIn
-      username: rtorres10
+      username: renato-amorim-torres-a9940b27
 
   address:
     street: ""
